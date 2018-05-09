@@ -5,27 +5,22 @@ let operation = "sub";
 switch(operation) {
 	case "add":
 	console.log(a + b);
-	document.write(a + b);
 	break;
 
 	case "sub":
 	console.log(a - b);
-	document.write(a - b);
 	break;
 
 	case "mult":
 	console.log(a * b);
-	document.write(a * b);
 	break;
 
 	case "div":
 	console.log(a / b);
-	document.write(a / b);
 	break;
 
 	case "pow":
 	console.log(Math.pow(a,b));
-	document.write(Math.pow(a,b));
 	break;
 
 	default:
