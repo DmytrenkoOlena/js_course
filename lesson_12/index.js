@@ -29,6 +29,6 @@ let  newArr = [];
         }
         }
 
-alert(newArr);
+console.log(newArr);
 
 
