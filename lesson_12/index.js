@@ -18,16 +18,16 @@ const obj1 = { from: 1, to: 4, value: [4, 5, 12, 7, 5, 4], ignore: [2] };
 console.log(obj1.join(' ,'));
 
 
-let  arr = [4, 5, 12, 7, 5, 4]; 
-let  newArr = [];
+let arr = [4, 5, 12, 7, 5, 4]; 
+let newArr = [];
 
-    for (let  i = 0; i < arr.length; i++) {
-        if (typeof arr[i] != "string") {
-            continue;
-        } else {
-            newArr.push(arr[i]); 
-        }
-        }
+	for (let  i = 0; i < arr.length; i++) {
+		if (typeof arr[i] != "string") {
+			continue;
+		} else {
+			newArr.push(arr[i]); 
+		}
+	}
 
 console.log(newArr);
 

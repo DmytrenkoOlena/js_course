@@ -1,8 +1,8 @@
 
 let data = [
-	{className: 'class', attributes: { 'data-name': 'Anatoliy' }, content: 'Some Text1' },
-	{className: 'class', attributes: { 'data-name': 'Anatoliy' }, content: 'Some Text2'},
-	{className: 'class', attributes: { 'data-name': 'Anatoliy' }, content: 'Some Text3'}
+		{className: 'class', attributes: { 'data-name': 'Anatoliy' }, content: 'Some Text1' },
+		{className: 'class', attributes: { 'data-name': 'Anatoliy' }, content: 'Some Text2'},
+		{className: 'class', attributes: { 'data-name': 'Anatoliy' }, content: 'Some Text3'}
 	];
 
 

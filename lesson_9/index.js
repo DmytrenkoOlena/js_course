@@ -1,1 +1,1 @@
-console.log('Dmytrenko Elena');
+console.log('Дмитренко Елена');
