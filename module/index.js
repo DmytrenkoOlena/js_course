@@ -7,7 +7,7 @@
 
 function itsMe(a) {
 	if (!a) {
-	let a = 'DmytrenkoOlena';
+	a = 'DmytrenkoOlena';
 	}
 	let fullString = "It’s me, " + a;
 	console.log(fullString);
