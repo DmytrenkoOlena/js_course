@@ -1,0 +1,51 @@
+.all_block {
+    background: #060606de;
+   width: 600px;
+   height: 400px; 
+   margin: 0 auto;
+}
+ h1 {
+     text-align: center;
+     padding-top: 20px;
+     text-shadow: 2px 2px #ffd400d6;
+     color: white;
+}
+#input {
+    width: 500px;
+    height: 30px; 
+    padding-left: 20px;
+    margin-left: 40px;
+    font-size: 16px;
+}
+#btn {
+    width: 50%;
+    height: 30px;
+    margin-left: 25%;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #1e1e1f;
+    text-shadow: 1px 1px #0c0a0ac2;
+    background: #ffdf00;
+}
+
+.done {
+    background: darkgreen;
+    margin-left: 20px;
+    width: 60px;
+    font-size: 12px;
+}
+.delete {
+    background: red;
+    margin-left: 20px;
+    width: 60px;
+    font-size: 12px;
+}
+li {
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+
+}
+span {
+    color:#faffbb;
+}
