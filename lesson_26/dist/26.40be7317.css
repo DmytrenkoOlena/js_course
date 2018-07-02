@@ -1,0 +1,27 @@
+.all_block {
+   width: 600px;
+   /* height: 500px;  */
+   margin: 0 auto;
+   background-image: url(zoo.edf91863.jpg);
+   background-position: center;
+   box-shadow: 0 0 5px rgba(0, 0, 0, 0.73);
+}
+
+table {
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+tr, td {
+    border: 2px solid black;
+    padding: 10px;
+}
+td {
+    column-span: 3;
+}
+td:hover, tr:hover {
+  background:#cdeffba1;
+}
+Raw name {
+    color: blueviolet;
+}
